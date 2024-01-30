@@ -1,5 +1,3 @@
-## Greptime builds Cloud-Native TSDB Services: Anywhere, Any Scale
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="/img/logo/text-padding-tined.svg">
@@ -15,6 +13,8 @@
     &nbsp;
     <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/Slack.svg" alt="Slack"></a>
 </p>
+
+## Greptime builds Cloud-Native TSDB Services: Anywhere, Any Scale
 
 We have the following products:
 
