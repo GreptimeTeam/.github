@@ -6,14 +6,26 @@
   </picture>
 </p>
 
-<h3 align="center">
-    The next-generation hybrid timeseries/analytics processing database in the cloud
-</h3>
-
 <p align="center">
-    <a href="https://twitter.com/greptime"><img height="20px" src="/img/social/Twitter.svg" alt="Twitter"></a>
+    <a href="https://twitter.com/greptime"><img height="20px" src="/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/company/greptime/"><img height=20px src="/img/social/Linkedin.svg" alt="Linkedin"></a>
+    <a href="https://www.linkedin.com/company/greptime/"><img height=20px src="/img/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/Slack.svg" alt="Slack"></a>
+    <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
+
+## Greptime builds Cloud-Native TSDB Services: Anywhere, Any Scale
+
+We have the following products:
+
+### GreptimeDB
+
+[GreptimeDB](https://github.com/GreptimeTeam/greptimedb) is an open-source distributed time-series database with PromQL/SQL/Python supported. [Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
+
+### GreptimeCloud
+
+[GreptimeCloud](https://greptime.com/product/cloud) provides a fully managed time-series database service on the cloud. [Explore for free](https://console.greptime.cloud/) to unlock the full potential of your monitoring stack.
+
+### GreptimeAI
+
+[GreptimeAI](https://greptime.com/product/ai) equips your LLM applications with the observability solution. [Try it out](https://console.greptime.cloud/ai) to gain comprehensive insights into the cost, performance, feedback, traces of your LLM applications.
