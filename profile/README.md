@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/greptime"><img height="20px" src="/img/social/Twitter.svg" alt="Twitter"></a>
+    <a href="https://twitter.com/greptime"><img height="20px" src="/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/company/greptime/"><img height=20px src="/img/social/Linkedin.svg" alt="Linkedin"></a>
+    <a href="https://www.linkedin.com/company/greptime/"><img height=20px src="/img/social/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/Slack.svg" alt="Slack"></a>
+    <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
 
 ## Greptime builds Cloud-Native TSDB Services: Anywhere, Any Scale
