@@ -20,7 +20,7 @@ We have the following products:
 
 ### GreptimeDB
 
-[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is a distributed, open-source time-series database designed for unlimited horizontal scaling, high performance, and integrated analytics. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
+[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is a distributed, open-source time-series database designed for unlimited horizontal scaling, high performance, and integrated analytics over metrics and logs. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
 
 [Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
 
