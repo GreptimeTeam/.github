@@ -20,12 +20,14 @@ We have the following products:
 
 ### GreptimeDB
 
-[GreptimeDB](https://github.com/GreptimeTeam/greptimedb) is an open-source distributed time-series database with PromQL/SQL/Python supported. [Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
+[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is a distributed, open-source time-series database designed for unlimited horizontal scaling, high performance, and integrated analytics over metrics and logs. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
+
+[Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
+
+### The Edge-Cloud Integrated TSDB
+
+- [The Edge-Cloud Integrated TSDB](https://www.greptime.com/product/carcloud) is designed for the unique demands of edge storage and compute in IoT. It tackles the exponential growth of edge data by integrating a multimodal edge-side database with cloud-based GreptimeDB Enterprise. This combination reduces traffic, computing, and storage costs while enhancing data timeliness and business insights.
 
 ### GreptimeCloud
 
-[GreptimeCloud](https://greptime.com/product/cloud) provides a fully managed time-series database service on the cloud. [Explore for free](https://console.greptime.cloud/) to unlock the full potential of your monitoring stack.
-
-### GreptimeAI
-
-[GreptimeAI](https://greptime.com/product/ai) equips your LLM applications with the observability solution. [Try it out](https://console.greptime.cloud/ai) to gain comprehensive insights into the cost, performance, feedback, traces of your LLM applications.
+[GreptimeCloud](https://greptime.com/product/cloud) provides a fully managed time-series database service on the cloud, which efficiently supports applications in fields such as observability, IoT, and finance. [Explore for free](https://console.greptime.cloud/) to unlock the full potential of your monitoring stack.
