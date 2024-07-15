@@ -20,13 +20,13 @@ We have the following products:
 
 ### GreptimeDB
 
-[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is a distributed, open-source time-series database designed for unlimited horizontal scaling, high performance, and integrated analytics over metrics and logs. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
+[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is an open-source unified time-series database for **Metrics**, **Events**, and **Logs** (also **Traces** in plan). You can gain real-time insights from Edge to Cloud at any scale. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
 
 [Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
 
 ### The Edge-Cloud Integrated TSDB
 
-- [The Edge-Cloud Integrated TSDB](https://www.greptime.com/product/carcloud) is designed for the unique demands of edge storage and compute in IoT. It tackles the exponential growth of edge data by integrating a multimodal edge-side database with cloud-based GreptimeDB Enterprise. This combination reduces traffic, computing, and storage costs while enhancing data timeliness and business insights.
+- [The Edge-Cloud Integrated TSDB](https://www.greptime.com/product/carcloud) is designed for the unique demands of edge storage and compute for IoT, connected vehicles, and more scenarios. It tackles the exponential growth of edge data by integrating a multimodal edge-side database with cloud-based GreptimeDB Enterprise. This combination reduces traffic, computing, and storage costs while enhancing data timeliness and business insights.
 
 ### GreptimeCloud
 
