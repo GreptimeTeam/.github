@@ -20,7 +20,7 @@ We have the following products:
 
 ### GreptimeDB
 
-[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is an open-source unified time-series database for **Metrics**, **Events**, and **Logs** (also **Traces** in plan). You can gain real-time insights from Edge to Cloud at any scale. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
+[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is an open-source unified time-series database for **Metrics**, **Logs**, and **Events** (also **Traces** in plan). You can gain real-time insights from Edge to Cloud at any scale. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
 
 [Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
 
