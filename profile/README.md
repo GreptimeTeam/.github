@@ -26,7 +26,7 @@ We have the following products:
 
 ### The Edge-Cloud Integrated TSDB
 
-- [The Edge-Cloud Integrated TSDB](https://www.greptime.com/product/carcloud) is designed for the unique demands of edge storage and compute for IoT, connected vehicles, and more scenarios. It tackles the exponential growth of edge data by integrating a multimodal edge-side database with cloud-based GreptimeDB Enterprise. This combination reduces traffic, computing, and storage costs while enhancing data timeliness and business insights.
+[The Edge-Cloud Integrated TSDB](https://www.greptime.com/product/carcloud) is designed for the unique demands of edge storage and compute for IoT, connected vehicles, and more scenarios. It tackles the exponential growth of edge data by integrating a multimodal edge-side database with cloud-based GreptimeDB Enterprise. This combination reduces traffic, computing, and storage costs while enhancing data timeliness and business insights.
 
 ### GreptimeCloud
 
