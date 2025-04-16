@@ -14,7 +14,7 @@
     <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
 
-## Greptime builds Cloud-Native Observability Database: Anywhere, Any Scale
+## Greptime builds Real-Time Observability Database: Anywhere, Any Scale
 
 We have the following products:
 
