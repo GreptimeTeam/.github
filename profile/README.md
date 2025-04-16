@@ -14,13 +14,13 @@
     <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
 
-## Greptime builds Cloud-Native TSDB Services: Anywhere, Any Scale
+## Greptime builds Real-Time Observability Database: Anywhere, Any Scale
 
 We have the following products:
 
 ### GreptimeDB
 
-[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is an open-source unified time-series database for **Metrics**, **Logs**, and **Events** (also **Traces** in plan). You can gain real-time insights from Edge to Cloud at any scale. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which supports more customized features and services. 
+[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is a real-time, cloud-native observability database for metrics, logs, and traces, providing sub-second insights from edge to cloud—at any scale. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which provides enhanced security, high availability, and professional support. 
 
 [Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
 
@@ -30,4 +30,4 @@ We have the following products:
 
 ### GreptimeCloud
 
-[GreptimeCloud](https://greptime.com/product/cloud) provides a fully managed time-series database service on the cloud, which efficiently supports applications in fields such as observability, IoT, and finance. [Explore for free](https://console.greptime.cloud/) to unlock the full potential of your monitoring stack.
+[GreptimeCloud](https://greptime.com/product/cloud) provides a fully managed observability database service on the cloud, which efficiently supports applications in fields such as observability, IoT, and finance. [Explore for free](https://console.greptime.cloud/) to unlock the full potential of your observability data stack.
