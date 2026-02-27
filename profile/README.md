@@ -5,7 +5,6 @@
     <img alt="GreptimeDB Logo" src="/img/logo/logo-text-padding.svg" width="400px">
   </picture>
 </p>
-
 <p align="center">
     <a href="https://twitter.com/greptime"><img height="20px" src="/img/social/twitter.svg" alt="Twitter"></a>
     &nbsp;
@@ -14,20 +13,15 @@
     <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
 
-## Greptime builds Real-Time Observability Database: Anywhere, Any Scale
+## One database for metrics, logs, and traces
 
-We have the following products:
+Replace your Prometheus + Loki + Elasticsearch stack with a single engine on object storage. Open-source, SQL + PromQL, up to 50x lower cost.
 
-### GreptimeDB
+### [GreptimeDB](https://github.com/GreptimeTeam/greptimedb)
+The open-source observability database. Drop-in replacement for Prometheus, Loki, and ES — or use as your single OpenTelemetry backend. [⭐️ Star us on GitHub](https://github.com/GreptimeTeam/greptimedb)
 
-[GreptimeDB](https://github.com/GreptimeTeam/greptimedb), written in Rust, is a real-time, cloud-native observability database for metrics, logs, and traces, providing sub-second insights from edge to cloud—at any scale. We provide [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise) for corporate users, which provides enhanced security, high availability, and professional support. 
+### [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise)
+Enhanced security, high availability, and professional support for production deployments.
 
-[Save our repository with a star ⭐️](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars).
-
-### The Edge-Cloud Integrated TSDB
-
-[The Edge-Cloud Integrated TSDB](https://www.greptime.com/product/carcloud) is designed for the unique demands of edge storage and compute for IoT, connected vehicles, and more scenarios. It tackles the exponential growth of edge data by integrating a multimodal edge-side database with cloud-based GreptimeDB Enterprise. This combination reduces traffic, computing, and storage costs while enhancing data timeliness and business insights.
-
-### GreptimeCloud
-
-[GreptimeCloud](https://greptime.com/product/cloud) provides a fully managed observability database service on the cloud, which efficiently supports applications in fields such as observability, IoT, and finance. [Explore for free](https://console.greptime.cloud/) to unlock the full potential of your observability data stack.
+### [Edge-Cloud Solution](https://www.greptime.com/product/carcloud)
+GreptimeDB running on edge devices (including Android/ARM) with unified APIs and cloud sync — for IoT, connected vehicles, and resource-constrained environments.
