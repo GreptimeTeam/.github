@@ -13,12 +13,11 @@
     <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
 
-## One database for metrics, logs, and traces
-
-Replace your Prometheus + Loki + Elasticsearch stack with a single engine on object storage. Open-source, SQL + PromQL, up to 50x lower cost.
+## The Observability 2.0 Database Company
+One engine for metrics, logs, and traces — built for wide events, replacing three separate systems with unified observability on object storage.
 
 ### [GreptimeDB](https://github.com/GreptimeTeam/greptimedb)
-The open-source observability database. Drop-in replacement for Prometheus, Loki, and ES — or use as your single OpenTelemetry backend. [⭐️ Star us on GitHub](https://github.com/GreptimeTeam/greptimedb)
+The open-source Observability 2.0 database. Drop-in replacement for Prometheus, Loki, and ES — or use as your single OpenTelemetry backend. [⭐️ Star us on GitHub](https://github.com/GreptimeTeam/greptimedb)
 
 ### [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise)
 Enhanced security, high availability, and professional support for production deployments.
