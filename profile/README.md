@@ -13,14 +13,14 @@
     <a href="https://www.greptime.com/slack"><img height="20px" src="/img/social/slack.svg" alt="Slack"></a>
 </p>
 
-## The Observability 2.0 Database Company
-One engine for metrics, logs, and traces — built for wide events, replacing three separate systems with unified observability on object storage.
+## The Open-Source Observability Database
+One columnar engine for metrics, logs, and traces, backed by object storage.
 
 ### [GreptimeDB](https://github.com/GreptimeTeam/greptimedb)
-The open-source Observability 2.0 database. Drop-in replacement for Prometheus, Loki, and ES — or use as your single OpenTelemetry backend. [⭐️ Star us on GitHub](https://github.com/GreptimeTeam/greptimedb)
+Metrics, logs, and traces share one table model — tags, timestamp, and fields — on a columnar engine over object storage. Ingest with OpenTelemetry, Prometheus Remote Write, Loki Push, or Elasticsearch Bulk. Query observability data with SQL and metrics with PromQL. Apache-2.0 licensed core. [⭐️ Star us on GitHub](https://github.com/GreptimeTeam/greptimedb)
 
 ### [GreptimeDB Enterprise](https://www.greptime.com/product/enterprise)
-Enhanced security, high availability, and professional support for production deployments.
+Scale observability on your infrastructure — workload isolation, read replicas, automated repartitioning and region balancing, high availability, and support.
 
 ### [Edge-Cloud Solution](https://www.greptime.com/product/carcloud)
 GreptimeDB running on edge devices (including Android/ARM) with unified APIs and cloud sync — for IoT, connected vehicles, and resource-constrained environments.
